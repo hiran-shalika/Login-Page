@@ -1,0 +1,29 @@
+#cardcust{
+    width: 50%; /* Set the desired width */
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+.box{
+    border: 2px solid black;
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 150px;
+    padding: 40px;
+    border-radius: 30px;
+}
+
+#textfield{
+    border-radius: 6px;
+    width: 315px;
+    height: 40px;
+    text-align: center;
+}
+
+#btncust{
+    width: 200px;
+    margin-left: 55px;
+}
+
